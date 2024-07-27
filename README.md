@@ -5,7 +5,9 @@ This project relies on [rawdrawandroid](https:github.com/cnlohr/rawdrawandroid) 
 ## Installation
 
 You can install this app using
-``` $ make keystore
-$ make push run ```
+```
+$ make keystore
+$ make push run 
+```
 
 
